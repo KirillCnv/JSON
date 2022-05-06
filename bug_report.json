@@ -1,1 +1,11 @@
-
+{
+  "p1":"id",
+  "p2":"Summary",
+  "p3":"Project",
+  "p4":"Severity",
+  "p5":"Priority",
+  "p6":"author",
+  "p7":"Expected result",
+  "p8":"Result",
+  "p9":"Steps to Reprosuce"
+}
